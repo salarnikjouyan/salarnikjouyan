@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salarnikjouyan
+- 👋 Hi, I’m @salar_nikjouyan
 - 👀 I’m interested in machine learning
 - 🌱 I'm currently learning android programming
 - 💞️ I’m looking to collaborate on Technology companies
